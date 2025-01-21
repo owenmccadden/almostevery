@@ -1,0 +1,1 @@
+These scripts were used to collect domain data from the CT log monitors crt.sh and Merklemap. They are included for reference and transparency only.
