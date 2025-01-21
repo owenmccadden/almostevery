@@ -64,7 +64,7 @@ export default function VercelDomains({ initialDomains }) {
                 well, almost every...
               </p>
               <a 
-                href="https://owenmc.dev/every-vercel-app" 
+                href="https://owenmc.dev/posts/every-vercel-app" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-gray-500 hover:text-gray-700 transition-colors"
